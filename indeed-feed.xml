@@ -7,8 +7,8 @@
   <job>
     <title>Sales Executive</title>
     <date>2021-06-29T22:49:39Z</date>
-    <referencenumber>unique123131</referencenumber>
-    <requisitionid>ab1212</requisitionid>
+    <referencenumber>123131</referencenumber>
+    <requisitionid>1212</requisitionid>
     <url>http://www.examplesite.com/viewjob.cfm?jobid=unique123131&amp;source=Indeed</url>
     <company>ABC Hospital</company>
     <sourcename>ABC Medical Group</sourcename>
